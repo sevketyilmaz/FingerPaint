@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.fingerpaint.MainActivity" >
+
+	<item android:id="@+id/action_clear"
+        android:title="Clear" />
+    <item android:id="@+id/action_help"
+        android:title="Help" />
+
+</menu>
